@@ -1,0 +1,4 @@
+slack-bolt==1.18.1
+anthropic==0.36.0
+flask==3.0.3
+gunicorn==22.0.0
